@@ -1,2 +1,2 @@
-# data_science
+# Data Science
 Data science related topics (projects, ...)
